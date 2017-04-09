@@ -32,7 +32,7 @@ public class PersonOverviewController {
     private Label birthdayLabel;
 
 
-    // Reference to the main application.
+    // Reference to the main application..
     private MainApp mainApp;
 
     /**
